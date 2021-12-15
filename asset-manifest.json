@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/lenouveaumonde/static/css/main.06ea8d59.chunk.css",
+    "main.js": "/lenouveaumonde/static/js/main.c6db4b6e.chunk.js",
+    "main.js.map": "/lenouveaumonde/static/js/main.c6db4b6e.chunk.js.map",
+    "runtime-main.js": "/lenouveaumonde/static/js/runtime-main.05e1783a.js",
+    "runtime-main.js.map": "/lenouveaumonde/static/js/runtime-main.05e1783a.js.map",
+    "static/js/2.ccb0c680.chunk.js": "/lenouveaumonde/static/js/2.ccb0c680.chunk.js",
+    "static/js/2.ccb0c680.chunk.js.map": "/lenouveaumonde/static/js/2.ccb0c680.chunk.js.map",
+    "static/js/3.8ac2f989.chunk.js": "/lenouveaumonde/static/js/3.8ac2f989.chunk.js",
+    "static/js/3.8ac2f989.chunk.js.map": "/lenouveaumonde/static/js/3.8ac2f989.chunk.js.map",
+    "index.html": "/lenouveaumonde/index.html",
+    "static/css/main.06ea8d59.chunk.css.map": "/lenouveaumonde/static/css/main.06ea8d59.chunk.css.map",
+    "static/js/2.ccb0c680.chunk.js.LICENSE.txt": "/lenouveaumonde/static/js/2.ccb0c680.chunk.js.LICENSE.txt",
+    "static/media/Discord.a5f866de.png": "/lenouveaumonde/static/media/Discord.a5f866de.png",
+    "static/media/Event.css": "/lenouveaumonde/static/media/PageAccueil.ed31477c.png",
+    "static/media/Twitch.2592f9ca.png": "/lenouveaumonde/static/media/Twitch.2592f9ca.png",
+    "static/media/Youtube.69b2614e.png": "/lenouveaumonde/static/media/Youtube.69b2614e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05e1783a.js",
+    "static/js/2.ccb0c680.chunk.js",
+    "static/css/main.06ea8d59.chunk.css",
+    "static/js/main.c6db4b6e.chunk.js"
+  ]
+}
