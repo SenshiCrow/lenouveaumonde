@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/lenouveaumonde/static/css/main.06ea8d59.chunk.css",
-    "main.js": "/lenouveaumonde/static/js/main.8023c849.chunk.js",
-    "main.js.map": "/lenouveaumonde/static/js/main.8023c849.chunk.js.map",
+    "main.css": "/lenouveaumonde/static/css/main.2a679532.chunk.css",
+    "main.js": "/lenouveaumonde/static/js/main.c1c66e20.chunk.js",
+    "main.js.map": "/lenouveaumonde/static/js/main.c1c66e20.chunk.js.map",
     "runtime-main.js": "/lenouveaumonde/static/js/runtime-main.05e1783a.js",
     "runtime-main.js.map": "/lenouveaumonde/static/js/runtime-main.05e1783a.js.map",
     "static/js/2.ccb0c680.chunk.js": "/lenouveaumonde/static/js/2.ccb0c680.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.8ac2f989.chunk.js": "/lenouveaumonde/static/js/3.8ac2f989.chunk.js",
     "static/js/3.8ac2f989.chunk.js.map": "/lenouveaumonde/static/js/3.8ac2f989.chunk.js.map",
     "index.html": "/lenouveaumonde/index.html",
-    "static/css/main.06ea8d59.chunk.css.map": "/lenouveaumonde/static/css/main.06ea8d59.chunk.css.map",
+    "static/css/main.2a679532.chunk.css.map": "/lenouveaumonde/static/css/main.2a679532.chunk.css.map",
     "static/js/2.ccb0c680.chunk.js.LICENSE.txt": "/lenouveaumonde/static/js/2.ccb0c680.chunk.js.LICENSE.txt",
     "static/media/Discord.a5f866de.png": "/lenouveaumonde/static/media/Discord.a5f866de.png",
     "static/media/Event.css": "/lenouveaumonde/static/media/PageAccueil.ed31477c.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.05e1783a.js",
     "static/js/2.ccb0c680.chunk.js",
-    "static/css/main.06ea8d59.chunk.css",
-    "static/js/main.8023c849.chunk.js"
+    "static/css/main.2a679532.chunk.css",
+    "static/js/main.c1c66e20.chunk.js"
   ]
 }
