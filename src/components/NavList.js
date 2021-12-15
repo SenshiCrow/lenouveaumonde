@@ -7,8 +7,6 @@ function NavList() {
       );
     return(
     <main>
-        
-        {routeTo("/", Event)}
         {routeTo("/lenouveaumonde", Event)}
     </main>
     );

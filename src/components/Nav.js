@@ -22,19 +22,19 @@ function Nav() {
             <section class="navSection">
                 <ul class="list">
                     <li>
-                        {linkTo("/", "Accueil")}
+                        {linkTo("/lenouveaumonde", "Accueil")}
                     </li>
                     <li>
-                        {linkTo("/boutique", "Boutique")} 
+                        {linkTo("/lenouveaumonde/boutique", "Boutique")} 
                     </li>
                     <li>
-                        {linkTo("/about", "A propos")} 
+                        {linkTo("/lenouveaumonde/about", "A propos")} 
                     </li>
                     <li>
-                        {linkTo("/contact", "Contact")} 
+                        {linkTo("/lenouveaumonde/contact", "Contact")} 
                     </li>
                     <li>
-                        {linkTo("/partenaires", "Partenaires")}
+                        {linkTo("/lenouveaumonde/partenaires", "Partenaires")}
                     </li>
                 </ul>
             </section>
