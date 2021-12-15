@@ -1,41 +1,20 @@
-* {
-    margin: 0;
-    padding: 0;
-    max-height: 100vh;
-    overflow: hidden;
-}
-
 .EventDiv {
+    background-image: url('../assets/PageAccueil.png');
+    background-size: cover;
+    overflow: hidden;
     display: flex;
     justify-content: center;
     align-items: center;
-    max-height: 100vh;
-    height: 93.6vh;
-    max-width: 100vw;
     margin: 0;
-    background-image: url('../assets/PageAccueil.png');
-    overflow: hidden;
 }
 
 .EventSection {
-    width: 50%;
-    height: fit-content;
-    text-align: center;
     color: whitesmoke;
     background-color: rgb(26, 26, 26);
-    padding: 1rem;
-}
-
-.EventTitle {
-    font-size: 3rem;
 }
 
 .ev {
     color: lightcoral;
-}
-
-.EventText {
-    font-size: 2rem;
 }
 
 .EventLink {
@@ -45,4 +24,131 @@
 
 .EventLink:active {
     color: lightskyblue;
+}
+.EventLink:focus {
+    color: lightskyblue;
+}
+
+@media screen and (min-width: 1500px){
+
+    * {
+        margin: 0;
+        padding: 0;
+        max-height: 100vh;
+        overflow: hidden;
+    }
+
+    .EventDiv {
+        max-height: 100vh;
+        height: 93.6vh;
+        max-width: 100vw;
+    }
+
+    .EventSection {
+        width: 50%;
+        height: fit-content;
+        text-align: center;
+        padding: 1rem;
+    }
+
+    .EventTitle {
+        font-size: 3rem;
+    }
+
+    .EventText {
+        font-size: 2rem;
+    }
+
+}
+
+@media screen and (min-width: 993px) and (max-width: 1499px){
+    * {
+        margin: 0;
+        padding: 0;
+        max-height: 100vh;
+        overflow: hidden;
+    }
+
+    .EventDiv {
+        max-height: 100vh;
+        height: 100vh;
+        max-width: 100vw;
+    }
+
+    .EventSection {
+        width: 50%;
+        height: fit-content;
+        text-align: center;
+        padding: 1rem;
+    }
+
+    .EventTitle {
+        font-size: 1.5rem;
+    }
+
+    .EventText {
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (min-width: 767px) and (max-width: 992px){
+    * {
+        margin: 0;
+        padding: 0;
+        max-height: 100vh;
+        overflow: hidden;
+    }
+
+    .EventDiv {
+        max-height: 100vh;
+        height: 100vh;
+        max-width: 100vw;
+    }
+
+    .EventSection {
+        width: 50%;
+        height: fit-content;
+        text-align: center;
+        padding: 1rem;
+        margin-bottom: 7rem;
+    }
+
+    .EventTitle {
+        font-size: 1.5rem;
+    }
+
+    .EventText {
+        font-size: 1.3rem;
+    }
+}
+
+@media screen and (max-width: 766px){
+    * {
+        margin: 0;
+        padding: 0;
+        max-height: 100vh;
+        overflow: hidden;
+    }
+
+    .EventDiv {
+        max-height: 100vh;
+        height: 100vh;
+        max-width: 100vw;
+    }
+
+    .EventSection {
+        width: 50%;
+        height: fit-content;
+        text-align: center;
+        padding: 1rem;
+        margin-bottom: 5rem;
+    }
+
+    .EventTitle {
+        font-size: 1.5rem;
+    }
+
+    .EventText {
+        font-size: 0.80rem;
+    }
 }

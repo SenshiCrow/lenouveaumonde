@@ -14,7 +14,7 @@ function Event() {
                     Comme vous le savez le serveur sera très dur avec les personnes ne respectant pas le RP ou essayant de troll etc.<br/>
                     Plus qu'un mois et vous serez tous récompensés pour votre longue attente. Merci à tous,<br/>
                     En espérant vous voir en RP.<br/>
-                    Pour en savoir plus, <span class="EventLink"><a href="https://docs.google.com/document/d/1bVfRNEUR5OBcBXhElxeWsRhzjMLdddh_DuEWmNfhK70/edit">cliquez ici</a></span>.
+                    Pour en savoir plus, <span class="EventLink"><a href="https://docs.google.com/document/d/1bVfRNEUR5OBcBXhElxeWsRhzjMLdddh_DuEWmNfhK70/edit" tabindex="1">cliquez ici</a></span>.
                 </h3>
             </section>
         </div>
